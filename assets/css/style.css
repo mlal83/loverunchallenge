@@ -26,6 +26,9 @@ header{
     background-color: aqua;
 }
 
+h1 {
+    font-family: 'oswald', sans-serif;
+}
 /*main content*/
 main{
     background-color: blueviolet;
