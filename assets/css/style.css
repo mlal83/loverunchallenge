@@ -1,0 +1,23 @@
+/*asterix wildcard to override defaults syles by the borwser*/
+
+*{
+    padding:0%;
+    margin:0%;
+    box-sizing:border-box;
+}
+
+/*header*/
+
+header{
+    background-color: aqua;
+}
+
+/*main content*/
+main{
+    background-color: blueviolet;
+}
+/*footer*/
+footer{
+    background-color: blue;
+}
+
