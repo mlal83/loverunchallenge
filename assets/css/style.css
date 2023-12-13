@@ -41,6 +41,20 @@ h1 {
   letter-spacing: 2px;
   color: #252525
 }
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+#menu > li {
+margin-top: 1em;
+}
 /*main content*/
 main {
   background-color: blueviolet;
